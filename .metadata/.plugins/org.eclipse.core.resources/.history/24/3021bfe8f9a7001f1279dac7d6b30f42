@@ -1,0 +1,16 @@
+package ankush.spring.springcore;
+
+import org.springframework.context.ApplicationContext;
+
+/**
+ * Hello world!
+ */
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        String configFile="xmlConfig.xml";
+        ApplicationContext context= new ClassPathXMLApplicationContext(new String[] {configFile});
+        
+    }
+}
+
