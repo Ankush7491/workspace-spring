@@ -20,5 +20,6 @@ https://www.springframework.org/schema/context/spring-context.xsd">
 			<value>Amb</value>
 		</property>
 	</bean>
+<bean class="ankush.spring.springcore.beans.Employee" name="employee2" p:employeeId="323" p:employeeName="Nirmal" p:employeeAddress="Indore" />
 
 </beans>
