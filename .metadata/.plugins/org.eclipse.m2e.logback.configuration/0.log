@@ -1,0 +1,94 @@
+2024-11-21 10:31:31,811 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-21 10:33:41,254 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml
+2024-11-21 10:33:41,504 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:33:41,768 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2024-11-21 10:33:41,769 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2024-11-21 10:33:42,240 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-11-21 10:33:42,765 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:33:42,766 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:34:05,899 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:34:05,970 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:34:05,971 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:35:39,844 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-21 10:35:39,924 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:35:39,991 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2024-11-21 10:35:39,992 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2024-11-21 10:35:40,029 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-11-21 10:35:40,210 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:35:40,211 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:38:02,886 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:38:02,887 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:39:10,041 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:39:10,041 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:41:34,407 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:41:34,408 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:42:24,801 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-21 10:42:24,878 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:42:24,938 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2024-11-21 10:42:24,938 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2024-11-21 10:42:25,021 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-11-21 10:42:25,142 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:42:25,143 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:44:27,396 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:44:27,444 [Worker-0: Loading pom.xml] ERROR o.e.m.editor.pom.DependencyTreePage - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:844)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1064)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4853)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3951)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4848)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1063)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:261)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:257)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:643)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:219)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-11-21 10:45:00,250 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 10:45:00,405 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:45:00,407 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:45:01,495 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:45:01,495 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 10:45:02,054 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:03,182 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:03,240 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.25.RELEASE
+2024-11-21 10:45:03,465 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:03,896 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:03,924 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.25.RELEASE
+2024-11-21 10:45:04,093 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:04,718 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:04,746 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.25.RELEASE
+2024-11-21 10:45:04,937 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:05,503 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:05,541 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.25.RELEASE
+2024-11-21 10:45:05,728 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:06,253 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:06,278 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.25.RELEASE
+2024-11-21 10:45:06,458 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:06,866 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE-sources.jar
+2024-11-21 10:45:07,022 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.25.RELEASE
+2024-11-21 10:45:07,170 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 10:45:07,170 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:13:18,670 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:13:18,671 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:13:54,018 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ankush.springcore:springcore:0.0.1-SNAPSHOT @ /Users/ankushsharma/Documents/workspace-spring/springcore/pom.xml.
+2024-11-21 11:13:54,106 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:13:54,106 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:13:55,260 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:13:55,261 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:13:55,414 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.36/lombok-1.18.36-sources.jar
+2024-11-21 11:13:55,740 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.36/lombok-1.18.36-sources.jar
+2024-11-21 11:13:55,803 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.36
+2024-11-21 11:13:56,277 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:13:56,277 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:14:08,006 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:14:08,007 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:18:49,475 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:18:49,475 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:27:13,983 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:27:13,984 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources
+2024-11-21 11:30:12,206 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/main/resources
+2024-11-21 11:30:12,207 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/ankushsharma/Documents/workspace-spring/springcore/src/test/resources

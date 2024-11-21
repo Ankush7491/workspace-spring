@@ -1,0 +1,5 @@
+package ankush.spring.springcore.beans;
+
+public class Employee {
+
+}

@@ -1,0 +1,10 @@
+package ankush.spring.springcore.beans;
+
+import lombok.Getter;
+import lombok.Setter;
+
+public class Employee {
+    @Getter @Setter private int employeeId;
+    @Getter @Setter	private String employeeName;
+    @Getter @Setter private String employeeAddres;
+}
