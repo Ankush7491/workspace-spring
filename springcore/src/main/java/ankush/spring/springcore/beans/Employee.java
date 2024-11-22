@@ -6,9 +6,10 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
-@AllArgsConstructor
+
 @ToString
 @NoArgsConstructor
+@AllArgsConstructor
 public class Employee {
     @Getter @Setter private int employeeId;
     @Getter @Setter	private String employeeName;

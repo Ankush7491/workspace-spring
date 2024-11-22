@@ -2,12 +2,14 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:p="http://www.springframework.org/schema/p"
+xmlns:c="http://www.springframework.org/schema/c"
 xmlns:context="http://www.springframework.org/schema/context"
 xsi:schemaLocation="http://www.springframework.org/schema/beans
 https://www.springframework.org/schema/beans/spring-beans.xsd
 http://www.springframework.org/schema/context
 https://www.springframework.org/schema/context/spring-context.xsd">
 
+<context:annotation-config />
 
 <bean class="ankush.spring.springcore.beans.Salary" name="salref">
 		<property name="fixed" value="1000"/>
@@ -30,4 +32,15 @@ https://www.springframework.org/schema/context/spring-context.xsd">
 <bean class="ankush.spring.springcore.beans.Employee" name="employee2" p:employeeId="323" p:employeeName="Nirmal" p:employeeAddress="Indore" 
 p:salary-ref="salref"/>
 
+<bean class="ankush.spring.springcore.beans.Employee" name="ciemployee">
+		<constructor-arg value="32" type="int"/>
+		<constructor-arg value="Neha" type="String"/>
+		<constructor-arg value="Dhaliara" type="String"/>
+		<constructor-arg ref="salref" type="ankush.spring.springcore.beans.Salary"/>
+</bean>
+
+<bean name="cemployee" class="ankush.spring.springcore.beans.Employee" c:employeeId="353" c:employeeName="Sachin" c:employeeAddress="234" 
+c:salary-ref="salref"/>
+<bean name="cemployee2" class="ankush.spring.springcore.beans.Employee" c:_0="353" c:_1="Sachin" c:_2="Mumbai" 
+c:_3-ref="salref"/>
 </beans>
