@@ -15,7 +15,9 @@ public class App {
         ApplicationContext context= new ClassPathXmlApplicationContext(new String[] {configFile});
         Employee employee=(Employee) context.getBean("employee");
         System.out.println(employee.toString());
-        
+        Employee employee2=(Employee) context.getBean("employee2");
+        System.out.println(employee2.toString());
+ 
     }
 }
 

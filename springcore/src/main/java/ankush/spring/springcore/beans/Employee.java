@@ -13,4 +13,5 @@ public class Employee {
     @Getter @Setter private int employeeId;
     @Getter @Setter	private String employeeName;
     @Getter @Setter private String employeeAddress;
+    @Getter @Setter private Salary salary;
 }

@@ -9,6 +9,10 @@ http://www.springframework.org/schema/context
 https://www.springframework.org/schema/context/spring-context.xsd">
 
 
+<bean class="ankush.spring.springcore.beans.Salary" name="salref">
+		<property name="fixed" value="1000"/>
+		<property name="gross" value="3000"/>
+</bean>
 <bean class="ankush.spring.springcore.beans.Employee" name="employee" >
 		<property name="employeeId">
 			<value>123</value>
@@ -19,6 +23,11 @@ https://www.springframework.org/schema/context/spring-context.xsd">
 		<property name="employeeAddress">
 			<value>Amb</value>
 		</property>
+		<property name="salary">
+			<ref bean="salref"/>
+		</property>
 	</bean>
+<bean class="ankush.spring.springcore.beans.Employee" name="employee2" p:employeeId="323" p:employeeName="Nirmal" p:employeeAddress="Indore" 
+p:salary-ref="salref"/>
 
 </beans>
