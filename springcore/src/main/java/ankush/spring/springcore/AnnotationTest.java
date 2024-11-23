@@ -13,7 +13,9 @@ public class AnnotationTest {
 		String filePath="./ankush/spring/springcore/configuration/config.xml";
 		ApplicationContext context= new ClassPathXmlApplicationContext(new String[] {filePath});
 		Book book =context.getBean("book1",Book.class);
-		System.out.println(book.toString()); 
+		System.out.println(book.toString()+" hashcode"+book.hashCode()); 
+		Book book2=context.getBean("book1",Book.class);
+		System.out.println(book2.toString()+" hashcode"+book2.hashCode()); 
 
 	}
 
