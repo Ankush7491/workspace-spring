@@ -24,4 +24,10 @@ public class Book {
 	@Getter @Setter private String bookName;
 	@Value("#{authors}")
 	@Getter @Setter private List<String> authorsList;
+	@Value("#{T(java.lang.Math).sqrt(25)}")
+	@Getter @Setter private Double batchNumber;
+	@Value("#{new String('Public')}")
+	@Getter @Setter private String library;
+	@Value("#{2<10}")
+	@Getter @Setter private boolean eBookPresent;
 }
