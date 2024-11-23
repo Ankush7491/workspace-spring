@@ -18,7 +18,7 @@ import lombok.ToString;
 @Component("book1")
 @Scope("prototype")
 public class Book {
-	@Value("3243")
+	@Value("#{34+90}")
 	@Getter @Setter private int bookId;
 	@Value("HarryPotter")
 	@Getter @Setter private String bookName;
