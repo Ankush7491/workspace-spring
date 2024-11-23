@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:p="http://www.springframework.org/schema/p"
+xmlns:context="http://www.springframework.org/schema/context"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+https://www.springframework.org/schema/context/spring-context.xsd">
+
+<context:annotation-config />
+
+<bean class="ankush.spring.springcore.beans.Employee" name="employee"  autowire="byName">
+	</bean>
+
+<bean class="ankush.spring.springcore.beans.Employee" name="employee2"  autowire="byName">
+	</bean>
+
+<bean class="ankush.spring.springcore.beans.Salary" name="salary">
+		<constructor-arg name="fixed" value="1000"/>
+		<constructor-arg name="gross" value="3000"/>
+</bean>
+
+<bean class="ankush.spring.springcore.beans.Office" name="mumbai" p:pin="12323" p:officeName="Olympus"/>
+<bean class="ankush.spring.springcore.beans.Office" name="gurgaon" p:pin="1287323" p:officeName="GG7"/>
+
+</beans>
